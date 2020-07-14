@@ -1,6 +1,6 @@
 //lab 1
 //1.function
-/*
+
 #include<cmath>
 #include<iostream>
 
@@ -28,12 +28,12 @@ void doAnother(int x){
     cout<<"x="<<x<<endl;
 	//code to execute. do something with x
 }
-*/
+
 
 //--------------------------------------------
 
 //2.Complete the following code
-/*
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
@@ -57,4 +57,3 @@ int getRandom( int y) {
 y = rand() % 100 + 1;
 return y;
 }
-*/
