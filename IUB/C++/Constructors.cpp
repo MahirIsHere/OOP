@@ -1,3 +1,4 @@
+//first example 
 class MyClass {     // The class
   public:           // Access specifier
     MyClass() {     // Constructor
@@ -10,6 +11,8 @@ int main() {
   return 0;
 }
 
+
+//second example
 class Car {        // The class
   public:          // Access specifier
     string brand;  // Attribute
@@ -33,6 +36,8 @@ int main() {
   return 0;
 }
 
+
+//third example
 class Car {        // The class
   public:          // Access specifier
     string brand;  // Attribute
