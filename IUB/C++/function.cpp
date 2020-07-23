@@ -43,7 +43,7 @@ using namespace std;
 float calcAvg(int a,float b) {
 return (a+b)/2;
 }
-int getRandom (int);
+int getRandom (int y);
 int main(){
     int x=10, y; float z;
 
